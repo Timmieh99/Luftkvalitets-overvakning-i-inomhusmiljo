@@ -50,3 +50,4 @@ För att använda luftkvalitetsövervakaren, följ dessa steg:
 
 Efter framgångsrik installation kommer GP2Y1014AU-sensorn börja mäta luftkvaliteten och överföra data till ThingSpeak var 15de sekund så länge värdet är större än 0. Besök sedan din ThingSpeak-dashboard för att övervaka och analysera insamlad data
 
+![thingspeak data](https://github.com/Timmieh99/Luftkvalitets-overvakning-i-inomhusmiljo/assets/60445245/9d3b1ab7-6b6b-419f-aac2-94ccdf642823)
